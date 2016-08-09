@@ -1,0 +1,14 @@
+.dog {
+  display: none;
+  width: 100%;
+}
+.dogipede {
+  display: none;
+  width: 100%;
+}
+#button1 {
+  float: left;
+}
+#button2 {
+  float: right;
+}

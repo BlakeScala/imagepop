@@ -1,0 +1,10 @@
+$(function(){
+  $("#button1").click(function(){
+    $(".dog").toggle();
+  });
+});
+$(function(){
+  $("#button2").click(function(){
+    $(".dogipede").toggle();
+  });
+});
